@@ -9,4 +9,6 @@ The passwords are encrypted using the BCRYPT method, which uses the Blowfish alg
 Furthermore, I have used PHPMailer to create a secure path for sending emails by using PHP code.
 
 The website is deployed with Heroku. However there is no added SQL database, so the login and register functions will not work properly.
+[Heroku Flower-and-cafe-shop](https://flower-cafe-and-shop.herokuapp.com "Heroku Flower-and-cafe-shop")
+
 
